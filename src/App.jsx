@@ -93,7 +93,7 @@ function App() {
         <img src={logo} width={200} className='md:w-[200px] w-[90px]' alt="" />
       </header>
 
-      <div className="taskarea bg-[#f0b946] mx-auto w-full md:m-auto md:container p-3 rounded-3xl text-[#302118] min-h-[88vh] xl:h-[80vh]">
+      <div className="taskarea bg-[#f0b946] mx-auto w-full md:m-auto md:container p-3 rounded-3xl text-[#302118] min-h-[85vh] 2xl:h-[80vh]">
         <div className="addtask text-sm md:text-base bg-[#fce3b5] px-2 gap-5 md:gap-3 m-2 md:p-4 flex items-center justify-around rounded-2xl py-2">
           <div className='w-[2%] text-lg md:text-xl flex items-center'>😴</div>
           <input onChange={handlechange} value={todo} type="text" className='w-full outline-0' placeholder='Add Task' />
