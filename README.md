@@ -1,4 +1,5 @@
 # 📝 Task no Kokyū – Todo Management Web App
+![Carbon Bazaar Architecture](public/Screenshot%202026-03-11%20130540.png)
 
 Task no Kokyū is a modern web-based task management application designed to help users organize daily activities and track their productivity.
 
